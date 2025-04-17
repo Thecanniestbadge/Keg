@@ -8,13 +8,6 @@ and Advanced Machine Learning Techniques
 @author: Canniestbadge
 """
 
-# This script implements an advanced machine learning solution for the Titanic survival prediction
-# challenge on Kaggle. It includes comprehensive feature engineering, ensemble modeling,
-# and hyperparameter optimization to achieve high prediction accuracy.
-
-# Improved Python Script for Kaggle Titanic Competition with Advanced Feature Engineering
-# and Ensemble Learning for Higher Accuracy
-
 import pandas as pd
 import numpy as np
 import re
